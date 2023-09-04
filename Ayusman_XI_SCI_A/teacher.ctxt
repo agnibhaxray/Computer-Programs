@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=teacher
+comment1.params=cap
+comment1.target=teacher(int)
+comment2.params=
+comment2.target=void\ getdata()
+comment3.params=
+comment3.target=void\ showdata()
+numComments=4

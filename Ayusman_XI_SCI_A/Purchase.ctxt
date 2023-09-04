@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Purchase
+comment1.params=it\ qt\ rt\ nqt\ nrt
+comment1.target=Purchase(java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=void\ display()
+numComments=4

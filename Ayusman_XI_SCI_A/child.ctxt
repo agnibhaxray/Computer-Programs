@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=child
+comment1.params=m\ n\ p
+comment1.target=child(int,\ float,\ char)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

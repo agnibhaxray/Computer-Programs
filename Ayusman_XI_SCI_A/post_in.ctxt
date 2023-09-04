@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=post_in
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ count
+comment2.target=java.lang.String\ infix(java.lang.String,\ int)
+numComments=3
